@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5e2Z7SnyBiT" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Building Responsive Layouts with Flexbox and Grid</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Building_Responsive_Layouts_with_Flexbox_and_Grid_ORG">
+    <organization identifier="Building_Responsive_Layouts_with_Flexbox_and_Grid_ORG">
+      <title>Building Responsive Layouts with Flexbox and Grid</title>
+      <item identifier="Protecting_a_device_with_Malwarebytes_SCO" isvisible="true" identifierref="__5e2Z7SnyBiT_RES">
+        <title>Building Responsive Layouts with Flexbox and Grid</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5e2Z7SnyBiT_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6C1O6MoB7Lr.png" />
+      <file href="mobile/6D2hGkZOG0F.png" />
+      <file href="mobile/6ayGek43dOp.png" />
+      <file href="mobile/5kdbdknoWkW.png" />
+      <file href="mobile/6RmteA4QUB1.png" />
+      <file href="mobile/63ovLiZGE99.png" />
+      <file href="mobile/5yg2R2oQqI4.png" />
+      <file href="mobile/6S0WqxsSw2m.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5auRHBsOocf.js" />
+      <file href="html5/data/js/5g7xo2USilL.js" />
+      <file href="html5/data/js/5gKlgIxgSUq.js" />
+      <file href="html5/data/js/5rKacXp7fSA.js" />
+      <file href="html5/data/js/5svARUKRBe1.js" />
+      <file href="html5/data/js/5t7caG0gVqL.js" />
+      <file href="html5/data/js/5v5Fx3cPVhf.js" />
+      <file href="html5/data/js/5wmTwOoLUQH.js" />
+      <file href="html5/data/js/5X8ZC4lB3G3.js" />
+      <file href="html5/data/js/5XV9iB6XcIf.js" />
+      <file href="html5/data/js/5yiqukZeBVj.js" />
+      <file href="html5/data/js/68zpykdXJL9.js" />
+      <file href="html5/data/js/6dHSr9XFUSv.js" />
+      <file href="html5/data/js/6E6LJG35O0v.js" />
+      <file href="html5/data/js/6eWyyZzGSzx.js" />
+      <file href="html5/data/js/6gdpi8uz9Vp.js" />
+      <file href="html5/data/js/6hEIvAcp3bD.js" />
+      <file href="html5/data/js/6hZjglWQa6o.js" />
+      <file href="html5/data/js/6JiwiGZ1q6w.js" />
+      <file href="html5/data/js/6jnePCj0x9e.js" />
+      <file href="html5/data/js/6kjUwP5s8o1.js" />
+      <file href="html5/data/js/6mQmvvpvQ2v.js" />
+      <file href="html5/data/js/6NFwzCakJDc.js" />
+      <file href="html5/data/js/6Ucy1RgILFg.js" />
+      <file href="html5/data/js/6Ue22xWBjtJ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
